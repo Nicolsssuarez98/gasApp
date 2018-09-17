@@ -1,0 +1,8 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="fill">
+    <item>
+        <bitmap android:gravity="fill" background="#35a3" />
+    </item>
+    <item>
+        <bitmap android:gravity="center"  />
+    </item>
+</layer-list>
